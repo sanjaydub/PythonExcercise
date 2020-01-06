@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="1" failures="0" hostname="DESKTOP-6AA63HT" name="pytest" skipped="0" tests="1" time="0.281" timestamp="2020-01-05T19:47:21.189490"><testcase classname="" file="test/test_Polygon.py" name="test.test_Polygon" time="0.000"><error message="collection failure">ImportError while importing test module &apos;C:\Users\sanjay\IdeaProjects\PythonExcercise\com\py\train\test\test_Polygon.py&apos;.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+test\test_Polygon.py:3: in &lt;module&gt;
+    import com.py.train.Oops.Polygon as poly
+E   ModuleNotFoundError: No module named &apos;com&apos;</error></testcase></testsuite></testsuites>
