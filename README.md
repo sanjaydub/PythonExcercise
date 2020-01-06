@@ -1,8 +1,11 @@
-TestNG </br>
-Maven </br>
+Python </br>
+Classe & Objects </br>
+OOPS - Python </br>
 Git - Gitgub </br>
-Rest-Assured </br>
-Interecting Jekins using API </br>
-Jenkins Jobs - CD and CT </br>
-Jenkins TestNg report integration </br>
-Jenkins JUnit report integration </br>
+Python UnitTest - pyTest </br>
+
+<b>How to execute</b></br>
+python -m pytest com\py\train\test</br>
+
+<b>How to execute with xml report generated</b></br>
+python -m pytest com\py\train\test --junitxml=result.xml</br>
