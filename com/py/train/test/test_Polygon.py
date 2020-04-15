@@ -1,7 +1,7 @@
 import com.py.train.Oops.Polygon as poly
 
 
-# sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+### sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 def test_file1_method1():
     x=5
